@@ -1,1 +1,2 @@
 # flask_web
+本程序后台使用了Python的flask作为后台web服务，主要包含计算机学科各课程之间的关系图和计算机课程资料上传下载两个模块，计算机学科各课程之间的关系图使用了html5的canvas进行绘图，计算机课程资料上传下载使用了Python的send_from_directory, render_template 等模块。
